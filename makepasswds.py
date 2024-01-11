@@ -15,7 +15,7 @@ fin.close()
 
 np.random.seed(1)
 s = "students = ["
-group_id = "cs174f2023"
+group_id = "cs174s2024"
 for i, (n, id) in enumerate(zip(names, netids)):
     si = "{"
     port = 8082+i
